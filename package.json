@@ -1,0 +1,13 @@
+{
+  "name": "bessel-via-amos.js",
+  "version": "1.0.0",
+  "description": "Transpile AMOS Fortran library to JavaScript/WebAssembly and export a couple of functions",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense"
+}
