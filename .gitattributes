@@ -1,0 +1,6 @@
+amos/*.f linguist-vendored
+amos/d*.c linguist-vendored
+amos/i*.c linguist-vendored
+amos/r*.c linguist-vendored
+amos/z*.c linguist-vendored
+./a.out.* linguist-generated
